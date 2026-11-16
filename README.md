@@ -4,7 +4,6 @@ SEO-preserving static mirror prepared for Vercel hosting.
 
 - Source canonical host: https://www.miocado.co.uk/
 - Mirrored sitemap pages: 9
-- AdSense page publisher: `ca-pub-2163742064447952`
 - Cloudflare DNS connection required.
 
 ## Deploy
