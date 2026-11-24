@@ -8,7 +8,7 @@ Disallow: /privacy-policies/
 Disallow: /contact-us/
 Disallow: /about-us/
 
+Sitemap: https://www.miocado.co.uk/sitemap.xml
+Sitemap: https://www.miocado.co.uk/sitemap_index.xml
 Sitemap: https://www.miocado.co.uk/post-sitemap.xml
 Sitemap: https://www.miocado.co.uk/page-sitemap.xml
-Sitemap: https://www.miocado.co.uk/deals-sitemap.xml
-Sitemap: https://www.miocado.co.uk/hosting-sitemap.xml
